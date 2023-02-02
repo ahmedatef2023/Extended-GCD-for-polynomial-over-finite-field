@@ -1,7 +1,7 @@
 # Extended-GCD-for-polynomial-over-finite-field 
 Extended GCD for polynomial over finite field:
 
-   This project to calculate extended GCD  for two polynomial equations over finite field GF(z).<\n>
+   This project to calculate extended GCD  for two polynomial equations over finite field GF(z).
    
 Input : two polynomials equations in format :
 
